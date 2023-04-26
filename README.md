@@ -13,9 +13,10 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
+<!--
 # Fitur - Fitur  Didalamnya, Antara Lain,
 
-<!-- ## Halaman Login
+ ## Halaman Login
 
 Description:
 
@@ -62,7 +63,7 @@ Description:
 Description:
 
 > Pada halaman ini digunakan untuk mengedit informasi akun Dokter.
- -->
+
 
 
 ## Halaman Statistik
@@ -72,7 +73,7 @@ Description:
 Description:
 
 > Pada halaman ini akan menampilkan Riwayat penyakit pasien yang telah diperiksa dalam bentuk grafik.
-
+-->
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
