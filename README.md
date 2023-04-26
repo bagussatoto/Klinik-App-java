@@ -15,7 +15,7 @@
 
 # Fitur - Fitur  Didalamnya, Antara Lain,
 
-## Halaman Login
+<!-- ## Halaman Login
 
 Description:
 
@@ -62,7 +62,7 @@ Description:
 Description:
 
 > Pada halaman ini digunakan untuk mengedit informasi akun Dokter.
-
+ -->
 
 
 ## Halaman Statistik
