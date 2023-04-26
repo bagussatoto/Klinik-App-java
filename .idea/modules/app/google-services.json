@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010691876651",
+    "firebase_url": "https://amikomcare.firebaseio.com",
+    "project_id": "amikomcare",
+    "storage_bucket": "amikomcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010691876651:android:eee4a7c864ffb56a42876e",
+        "android_client_info": {
+          "package_name": "com.pengdst.amikomcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010691876651-qct0rmo4mrs129ii43rf6bocpm35miat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pengdst.amikomcare",
+            "certificate_hash": "35b8d2faae37adaaea7cd4aa4f501babd2c326ed"
+          }
+        },
+        {
+          "client_id": "1010691876651-bjqo96tsg13l7m5fbhn9agvhgj8ps20o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9JKp0ixFaf783XfgAkDW-RwmyDMoHJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010691876651-bjqo96tsg13l7m5fbhn9agvhgj8ps20o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
