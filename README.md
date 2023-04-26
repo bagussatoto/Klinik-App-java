@@ -1,5 +1,5 @@
 
-# Unoficial E-Klinik Apps on Amikom University
+# Aplikasi
 
 ## 👦🏽 Siapa pembuat aplikasi ini?
 
