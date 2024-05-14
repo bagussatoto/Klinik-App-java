@@ -61,7 +61,7 @@ dependencies {
     // LiveData
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0"
     // ViewModel
-    implementation "androidx.lifecycle:lifecycle-viewmodel:2.2.0"
+    implementation "androidx.lifecycle:lifecycle-viewmodel:2.8.0"
     // LiveData
     implementation "androidx.lifecycle:lifecycle-livedata:2.2.0"
 
